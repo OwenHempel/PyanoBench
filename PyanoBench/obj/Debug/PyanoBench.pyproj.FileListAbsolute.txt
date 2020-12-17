@@ -1,0 +1,7 @@
+C:\Users\O wen\Documents\GitHub\PyanoBench\PyanoBench\PyanoBench\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\O wen\Documents\GitHub\PyanoBench\PyanoBench\PyanoBench\obj\Debug\attach_server.py
+C:\Users\O wen\Documents\GitHub\PyanoBench\PyanoBench\PyanoBench\obj\Debug\visualstudio_py_debugger.py
+C:\Users\O wen\Documents\GitHub\PyanoBench\PyanoBench\PyanoBench\obj\Debug\visualstudio_py_repl.py
+C:\Users\O wen\Documents\GitHub\PyanoBench\PyanoBench\PyanoBench\obj\Debug\visualstudio_py_util.py
+C:\Users\O wen\Documents\GitHub\PyanoBench\PyanoBench\PyanoBench\obj\Debug\__init__.py
+C:\Users\O wen\Documents\GitHub\PyanoBench\PyanoBench\PyanoBench\obj\Debug\__main__.py
